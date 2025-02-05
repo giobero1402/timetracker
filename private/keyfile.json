@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "yourproject-413412",
+  "private_key_id": "1c7ab7a13bcc894b86af86a216e08187edb532fa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDMeUCZc1TCEABY\nj3sZnLRVOOaemlTeVEydpuxy+a6WOrqlq1Bue1Xfs+CuG6IUHm9TT3bbvX9RC1uy\nbxfn52CvUeEShwCf+JxlFUaOkYpFUJstZzkJcz0AVEdG7N9KbNsufTntHt1S6+6s\n0jejYeiTEaUlwf02P2I9Whq6JPWXiZpUDcU32ycPdzI8EI0kxF0jgu1oMII9xbFr\nQJPMg5z0lQd2MeA6VxG//Inr9C2FhjfJUCghZhR4JuGuT6AoaicgJkILSfgH1Xa1\nYGrnoZN74a0uGsJG+nDgFGAsM54aEwAwWGPVGuVAl6nN27O0uPTXWt836SDCDeq7\n1iirA3afAgMBAAECggEAGWBU/ZZcJweAW31XHDsgAFGjAX0K2lrg9VHhl3VYTwmz\n31qvDT8eTbiPwlvolhGe5FqA2E2gzuiXdUInV98V1zxUsA10LOZYVo045/m1DNwv\nngdpAzy7jd5nyCwenCh9XTwqY7zIYAGq6eTfBdZhXFs8wT5dlA1yvkV/+qkal7dB\n1zVo1BmKDhiGnFguh5j//r4HzQCyj1zsfpSTf3/hH5qAvMKG4xPUqAQ5uu8WjpyI\nYSOn6oOiDvG5G/glLUoGSC2tON1ejsmpJ5zfjsbyhfAVYWGpVShkv+25WhdRIbSh\nIM8Yjx8D+O2W1ow06DLuzy7lTp1fovPAdu+qc0k/dQKBgQDmEQfhGeOghki8KGxx\nAFp6Q0bgPXBIbCSdEB3yVgWKaSZGbkPBB+K/JXbVvMAv/Mo0jppupzTjGAu/gXc/\ndX+/u+xmYDK8L3B2a991awoO6wEAmt9fXrKdxWK/Vib31nE4AK93H2zbobiQ4jOr\nTvcCx6DDgaFD//uuaKqOZcF6mwKBgQDjhbHGCunAHVy096aZs7egQH/Uu1CFGsbu\nskFU9gg2GI++nWlHKrBiiN5gUJqBA3+5FcnyACm3H/+vkcri3WZ1nJk+2BC4jyFR\nAuOkh2M2iyle7ZAwORG06OrXLuGx9NOgo9uOU2XEwW3HofTxXGYeH1kGTxG7yzPS\nZAFV6KsiTQKBgQCpbEVHKY+NeRY7KfGhzcbTXpPlMplrW+gimenTujFeWkzLdQwE\nLNB4PxiiEdvd+uTVi2aCsjOqQNz17FtqqhanlbZjNdhm6PCC5LGsgGTp03nrfiGc\n09npgaBUkxcjUBIUUbzllojNvOx0FYBDWWVh8KydDOs7blljeMSRFLJEnQKBgFNd\ncEbdRsqyt35DY5Lby8N2/p+mxpkOt6dMPy3vPBD+LOUt7h46YQipl7l4rzPoYUsi\n1azLLH3BxsDAzbMUZm9forLpHi9RmmaBhYGKberVUKJMr1FMB9XepfWUYvP+ffBV\nOaRLoHVYXm4QRJyPO4d7+vWZ0SibCvDi3a5poxLdAoGAeodMjNUTbnrbBhlEhV0y\nGBoEui/Iko/EbDiXqXENXelBjTU4buK8b1cFSsHgB7192PoEj5BD1nAMJrGBoEVp\n9plOlw/d+/I+YjEVQXq5zp63xHqoy/8Y8Jd/VrunQQ5Ct25HJ9dYDVUu4B19LYV/\nNSQ4tzNI24OHBmn/I8BP+QI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dimielectrical@yourproject-413412.iam.gserviceaccount.com",
+  "client_id": "117433522028223062677",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dimielectrical%40yourproject-413412.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
